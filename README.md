@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elvis, I'm a Ghanian | Nigerian 
+- 👀 I’m interested in Web Development, specifically front-end
+- 🌱 I’m currently learning back-end dev
+- 💞️ I’m looking to collaborate on javascripts project to help build and broaden my understanding of things
+- 📫 How to reach me: elvisnrtawiah@gmail.com
